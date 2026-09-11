@@ -1,0 +1,103 @@
+{
+  "doc_name": "document.pdf",
+  "structure": [
+    {
+      "title": "Overview",
+      "start_index": 1,
+      "end_index": 1,
+      "node_id": "0000",
+      "summary": "The fragment is a material specification sheet for steel grade\u202f817M40 (EN\u202f24). It outlines the scope of the standard, lists equivalent international designations (e.g., ISO\u202f36CrNiMo4, AISI\u202f4340, DIN\u202f1.6582), and defines the permissible chemical composition ranges for key elements (C, Si, Mn, P, S, Cr, Ni, Mo). It also sets required mechanical properties, specifying a supplied hardness between 180\u202fHBS and 230\u202fHBS, an austenite grain size of 5\u202f\u2013\u202f8 (per IS\u202f2853/ASTM\u202fE112), and an inclusion rating according to AS\u202f4163/ASTM\u202fE45 (Thin Series)."
+    },
+    {
+      "title": "Equivalent Specifications",
+      "start_index": 1,
+      "end_index": 1,
+      "node_id": "0001",
+      "summary": "The excerpt is a material specification sheet for the alloy steel 817M40 (EN\u202f24). It outlines the supplier\u2011required standards and includes:\n\n* **Purpose** \u2013 Defines the technical supply conditions for 817M40 steel.  \n* **Equivalent standards** \u2013 Lists comparable designations across major standards (BS\u202f970, ISO\u202f683\u20111, AISI/SAE\u202f4340, JIS\u202fG4103, DIN\u202f17200, IS\u202f11185).  \n* **Chemical composition limits** \u2013 Specifies permitted ranges for C, Si, Mn, P, S, Cr, Ni, and Mo.  \n* **Hardness** \u2013 Sets the acceptable as\u2011supplied hardness between 180\u202fHBS (minimum) and 230\u202fHBS (maximum).  \n* **Austenite grain size** \u2013 Requires a grain\u2011size number of 5 to 8 according to IS\u202f2853/ASTM\u202fE112.  \n* **Inclusion rating** \u2013 References the AS\u202f4163/ASTM\u202fE45 \u201cThin Series\u201d classification (details not shown).  \n\nOverall, the document provides the key technical criteria\u2014chemical make\u2011up, mechanical properties, micro\u2011structural limits, and standard equivalents\u2014that a supplier must meet for this steel grade."
+    },
+    {
+      "title": "Chemical Composition Limits",
+      "start_index": 1,
+      "end_index": 1,
+      "node_id": "0002",
+      "summary": "The partial document outlines the specifications and supply conditions for steel grade 817M40 (EN24). It includes an overview of the standard\u2019s purpose, a table of equivalent international designations (e.g., BS\u202f970, ISO\u202f683\u20111, AISI\u202f4340, JIS\u202fSNCM439, DIN\u202f1.6582, IS\u202f11185), and detailed chemical composition limits for C, Si, Mn, P, S, Cr, Ni, and Mo. It also defines the required hardness range (180\u2013230\u202fHBS), the acceptable austenite grain size (ASTM\u202fE112 range 5\u20138), and references the inclusion rating criteria (AS\u202f4163/ASTM\u202fE45 \u2013 Thin Series)."
+    },
+    {
+      "title": "Hardness as Supplied",
+      "start_index": 1,
+      "end_index": 1,
+      "node_id": "0003",
+      "summary": "The document specifies the supply and technical requirements for steel grade 817M40 (EN24). It outlines the applicable standards and equivalent designations (e.g., BS\u202f970, ISO\u202f683\u20111, AISI\u202f4340, JIS\u202fSNCM439, DIN\u202f17200, IS\u202f11185). Detailed limits for the chemical composition are provided, covering carbon, silicon, manganese, phosphorus, sulphur, chromium, nickel, and molybdenum. The required hardness range for the material as supplied is 180\u2013230\u202fHBS. Austenite grain size must fall within the ASTM\u202fE112 range of 5 to 8, and the inclusion rating follows the thin\u2011series criteria of AS\u202f4163/ASTM\u202fE45."
+    },
+    {
+      "title": "Austenite Grain Size (IS 2853/ASTM E112)",
+      "start_index": 1,
+      "end_index": 1,
+      "node_id": "0004",
+      "summary": "The document is a material specification for the alloy steel 817M40 (EN\u202f24), outlining the supplier\u2011required technical conditions. It begins with an overview of the standard, then lists equivalent designations across international standards (BS, ISO, AISI/SAE, JIS, DIN, IS). The core of the specification details the acceptable chemical composition ranges for C, Si, Mn, P, S, Cr, Ni, and Mo, followed by the required hardness limits (180\u2013230\u202fHBS) for the supplied material. Additional quality criteria include the permissible austenite grain size (ASTM\u202fE112 range 5\u20138) and an inclusion rating according to AS\u202f4163/ASTM\u202fE45 (Thin Series)."
+    },
+    {
+      "title": "Inclusion Rating (AS 4163/ASTM E45) - Thin Series",
+      "start_index": 1,
+      "end_index": 2,
+      "node_id": "0005",
+      "summary": "The document defines the supplier\u2011required technical specifications for steel grade\u202f817M40 (EN\u202f24). It lists equivalent international standards (e.g., ISO\u202f683\u20111\u202f36CrNiMo4, AISI\u202f4340, JIS\u202fSNCM439, DIN\u202f1.6582, IS\u202f11185) and details the permissible chemical composition ranges for C, Si, Mn, P, S, Cr, Ni and Mo. It sets hardness limits (180\u2013230\u202fHBS), austenite grain\u2011size requirements (ASTM\u202fE112, size\u202f5\u20118), and inclusion\u2011rating limits for both thin and thick series per AS\u202f4163/ASTM\u202fE45. The required microstructure is a uniform ferrite\u2011pearlite matrix with banding not exceeding\u202f0.050\u202fmm, and the material must be free of internal/external defects such as cracks, seams, porosity, slag, inclusions, dendritic structures, or segregation. Decarburization depth must comply with IS\u202f11185 tables. Heat\u2011treatment is limited to annealed/normalized conditions as\u2011rolled or forged, with a black surface finish. Each heat number must be accompanied by a test certificate covering chemistry, hardness, grain size, and inclusion rating. Finally, bars are to be color\u2011coded (green and red ends) for identification."
+    },
+    {
+      "title": "Inclusion Rating (AS 4163/ASTM E45) - Thick Series",
+      "start_index": 2,
+      "end_index": 2,
+      "node_id": "0006",
+      "summary": "The excerpt specifies detailed quality and documentation requirements for steel bars. It defines inclusion ratings (max\u202f3.0, with a \u201cThick Series\u201d limit of 2.0) for four inclusion types\u2014sulfide, alumina, silicate, and globular\u2014per AS\u202f4163/ASTM\u202fE45. It mandates a uniform ferrite\u2011pearlite microstructure free of harmful bands larger than\u202f0.050\u202fmm (per IS\u202fE\u202f407). Bars must be free of internal and external defects such as cracks, seams, laps, porosity, slag, inclusions, dendritic structures, and segregation (per IS\u202f11371). Decarburization depth must not exceed limits in IS\u202f11185 tables\u202f6\u20118. The material shall be supplied in the annealed or normalized condition resulting from hot rolling or forging, with a black surface finish as\u2011rolled/forged. Each heat must be accompanied by a test certificate covering chemical composition, hardness, grain size, and inclusion rating. Finally, bars are to be color\u2011coded with green and red end caps for identification."
+    },
+    {
+      "title": "Micro Structure (IS ASTM E407)",
+      "start_index": 2,
+      "end_index": 2,
+      "node_id": "0007",
+      "summary": "The excerpt is a technical specification for steel bars that outlines the quality and inspection requirements a supplier must meet. The main points covered are:\n\n1. **Inclusion Ratings** \u2013 Limits for non\u2011metallic inclusions are defined for four inclusion types (Sulfide, Alumina, Silicate, Globular) with maximum ratings of 3.0 for the \u201cStandard Series\u201d and 2.0 for the \u201cThick Series\u201d per AS\u202f4163/ASTM\u202fE45.\n\n2. **Micro\u2011structure Requirements** \u2013 The steel must exhibit a uniformly distributed ferrite\u2011pearlite matrix free of harmful banding; any banding must be less than 0.050\u202fmm.\n\n3. **Freedom from Defects** \u2013 The material must be free of internal and external surface defects such as cracks, seams, laps, excessive porosity, slag, inclusions, dendritic structures, and segregation (per IS\u202f11371).\n\n4. **Decarburization Limits** \u2013 The depth of surface decarburization must stay within the limits specified in IS\u202f11185 (tables\u202f6\u20118).\n\n5. **Heat\u2011Treatment Condition** \u2013 Bars are to be supplied in the annealed or normalized condition as hot\u2011rolled or forged.\n\n6. **Surface Condition** \u2013 The as\u2011delivered surface shall be black, typical of rolled or forged steel.\n\n7. **Test Certificate** \u2013 Suppliers must furnish a test certificate for each heat number, covering chemical composition, hardness, grain size, and inclusion rating.\n\n8. **Identification Marking** \u2013 Bars must be color\u2011coded with green and red ends for easy material identification.\n\nOverall, the document sets out precise inclusion limits, micro\u2011structural and defect criteria, permissible decarburization depth, required heat\u2011treatment and surface state, documentation, and labeling guidelines for the steel bars."
+    },
+    {
+      "title": "Freedom from Defects (IS:11371)",
+      "start_index": 2,
+      "end_index": 2,
+      "node_id": "0008",
+      "summary": "The excerpt is a technical specification checklist for steel bars (likely carbon\u2011steel grades). It outlines the quality and inspection requirements that each heat must meet before shipment, including:\n\n* **Inclusion ratings** \u2013 limits for non\u2011metallic inclusions (sulfide, alumina, silicate, globular) according to AS\u202f4163/ASTM\u202fE45, with maximum ratings of 3.0 (general) and 2.0 for the \u201cThick Series.\u201d\n* **Micro\u2011structure** \u2013 the steel must exhibit a uniformly distributed ferrite\u2011pearlite matrix with banding no greater than\u202f0.050\u202fmm; any doubt is resolved by measurement.\n* **Freedom from defects** \u2013 the material must be free of internal and external surface flaws such as cracks, seams, laps, harmful porosity, slag, inclusions, dendritic structures, or segregation (per IS\u202f11371).\n* **Decarburization depth** \u2013 the surface decarburization shall not exceed the limits given in IS\u202f11185 tables\u202f6\u20118 (as referenced in IS\u202f6396).\n* **Heat\u2011treatment condition** \u2013 the bars shall be delivered in the annealed or normalized condition as\u2011rolled or forged.\n* **Surface condition** \u2013 the as\u2011rolled/forged surface shall be black.\n* **Documentation** \u2013 a test certificate must accompany each heat, confirming chemical composition, hardness, grain size, and inclusion rating.\n* **Identification** \u2013 bars are to be color\u2011coded (green and red at the ends) for material identification.\n\nOverall, the document defines the permissible inclusion levels, required micro\u2011structural quality, defect\u2011free criteria, allowed decarburization, heat\u2011treatment and surface states, certification, and visual identification for the supplied steel bars."
+    },
+    {
+      "title": "Depth of Decarburization (IS:6396)",
+      "start_index": 2,
+      "end_index": 2,
+      "node_id": "0009",
+      "summary": "The excerpt outlines the quality\u2011verification requirements for steel bars, organized into a series of technical checks and specifications:\n\n1. **Inclusion Rating (AS\u202f4163/ASTM\u202fE45)** \u2013 Provides maximum allowable inclusion limits for four inclusion types (Sulfide, Alumina, Silicate, Globular). Two rating tables are shown: a \u201cThick Series\u201d with a 3.0\u202fmax rating, and a more restrictive rating with a 2.0\u202fmax limit.\n\n2. **Micro\u2011Structure (IS\u202fASTM\u202fE407)** \u2013 Requires a uniformly distributed ferrite\u2011pearlite matrix free of harmful banding; any band exceeding 0.050\u202fmm must be measured and documented.\n\n3. **Freedom from Defects (IS\u202f11371)** \u2013 Bars must be free of internal/external surface defects, including cracks, seams, laps, porosity, slag, inclusions, dendritic structures, and segregation.\n\n4. **Depth of Decarburization (IS\u202f6396)** \u2013 The permissible depth of surface decarburization is limited to the values given in IS\u202f11185 (Tables\u202f6\u20118).\n\n5. **Heat\u2011Treatment Condition** \u2013 Bars are to be supplied either annealed or normalized, as delivered by hot rolling or forging.\n\n6. **Surface Condition** \u2013 The as\u2011received surface should be black, typical of rolled or forged steel.\n\n7. **Test Certificate Requirement** \u2013 Suppliers must issue a test certificate for each heat number, covering chemical composition, hardness, grain size, and inclusion rating.\n\n8. **Miscellaneous** \u2013 Bars must be color\u2011coded (green and red ends) for easy material identification.\n\nOverall, the document fragment specifies the inspection criteria, allowable limits, and documentation needed to ensure that the steel bars meet standard quality and performance standards."
+    },
+    {
+      "title": "Heat Treatment Condition as Supplied",
+      "start_index": 2,
+      "end_index": 2,
+      "node_id": "0010",
+      "summary": "The excerpt outlines technical specifications and acceptance criteria for steel bars, organized into numbered items:\n\n1. **Inclusion Rating** \u2013 Provides maximum allowable inclusion ratings (up to 3.0 for general classification and up to 2.0 for \u201cThick Series\u201d) for four inclusion types (Sulfide, Alumina, Silicate, Globular) per AS\u202f4163/ASTM\u202fE45.\n\n2. **Microstructure (IS\u202fASTM\u202fE407)** \u2013 Requires a uniformly distributed ferrite\u2011pearlite structure with no harmful banding; band width must not exceed 0.050\u202fmm, and any ambiguous measurements are to be taken as final.\n\n3. **Freedom from Defects (IS\u202f11371)** \u2013 Bars must be free of internal/external surface defects, including cracks, seams, laps, porosity, slag, inclusions, dendritic structures, and segregation.\n\n4. **Depth of Decarburization (IS\u202f6396)** \u2013 The decarburized layer must stay within the limits set in Tables\u202f6\u20118 of IS\u202f11185.\n\n5. **Heat Treatment Condition** \u2013 Bars are to be supplied either annealed or normalized, matching the condition of the hot\u2011rolled or forged stock.\n\n6. **Surface Condition** \u2013 Bars shall be delivered in the \u201cblack\u201d (as\u2011rolled/forged) condition.\n\n7. **Test Certificate** \u2013 Suppliers must furnish a test certificate for each heat number covering chemical composition, hardness, grain size, and inclusion rating.\n\n8. **Miscellaneous** \u2013 Bars must be color\u2011coded with green and red end tags for material identification.\n\nOverall, the document defines the quality, microstructural, and documentation requirements for the specified steel bars, referencing Indian Standards (IS) and international inclusion standards."
+    },
+    {
+      "title": "Surface Condition as Supplied",
+      "start_index": 2,
+      "end_index": 2,
+      "node_id": "0011",
+      "summary": "The excerpt outlines the technical and quality specifications for a steel product, covering the following key areas:\n\n1. **Inclusion Rating** \u2013 Specifies maximum permissible inclusion grades (Types A\u2011D: Sulfide, Alumina, Silicate, Globular) with a rating cap of 3.0 for general assessment and 2.0 for the \u201cThick Series\u201d per AS\u202f4163/ASTM\u202fE45.\n\n2. **Micro\u2011structure Requirements** \u2013 Mandates a uniformly distributed ferrite\u2011pearlite matrix free of harmful banding, limiting any band width to 0.050\u202fmm (IS\u202fE\u202f407).\n\n3. **Freedom from Defects** \u2013 Requires the material to be free of internal and external surface flaws, including cracks, seams, laps, porosity, slag, inclusions, dendritic structures, and segregation (IS\u202f11371).\n\n4. **Depth of Decarburization** \u2013 Limits decarburization depth according to the values in Tables\u202f6\u20118 of IS\u202f11185 (IS\u202f6396).\n\n5. **Heat\u2011Treatment Condition** \u2013 States that the material shall be supplied either annealed or normalized, as hot\u2011rolled or forged.\n\n6. **Surface Condition** \u2013 Requires a black finish consistent with the as\u2011rolled/forged condition.\n\n7. **Test Certificate** \u2013 Obligates the supplier to issue a test certificate for each heat number, covering chemical composition, hardness, grain size, and inclusion rating.\n\n8. **Miscellaneous** \u2013 Calls for color\u2011coding of bars with green and red ends for easy material identification."
+    },
+    {
+      "title": "Test Certificate",
+      "start_index": 2,
+      "end_index": 2,
+      "node_id": "0012",
+      "summary": "The excerpt outlines quality and inspection requirements for steel bars, specifying inclusion ratings for different material types (Sulfide, Alumina, Silicate, Globular) with maximum limits, and detailing micro\u2011structure expectations such as uniformly distributed ferrite\u2011pearlite with banding limited to 0.050\u202fmm. It mandates that the material be free of internal and external defects\u2014including cracks, seams, laps, porosity, slag, inclusions, dendritic structures, and segregation\u2014and that decarburization depth not exceed values given in referenced IS standards. The bars must be supplied annealed or normalized in the hot\u2011rolled or forged condition, with a black surface finish. Suppliers are required to provide a test certificate covering chemical composition, hardness, grain size, and inclusion rating for each heat number. Finally, the document calls for color\u2011coding the bar ends (green and red) for material identification."
+    },
+    {
+      "title": "Miscellaneous",
+      "start_index": 2,
+      "end_index": 2,
+      "node_id": "0013",
+      "summary": "The excerpt is a technical specification for steel bars that outlines the required quality and inspection criteria. It defines inclusion ratings for different inclusion types (sulfide, alumina, silicate, globular) with maximum limits, and sets a \u201cThick Series\u201d inclusion rating limit. It specifies micro\u2011structure requirements, mandating a uniformly distributed ferrite\u2011pearlite matrix free of harmful banding (\u2264\u202f0.050\u202fmm). The document demands freedom from internal and external defects such as cracks, seams, laps, porosity, slag, inclusions, dendritic structures, and segregation. Decarburization depth must stay within the limits given in the referenced IS standards. Heat\u2011treatment condition must be annealed or normalized as rolled or forged, and the surface condition must be \u201cblack\u201d (as rolled/forged). Suppliers are required to provide a test certificate for each heat number covering chemical composition, hardness, grain size, and inclusion rating. Finally, the bars must be color\u2011coded (green and red ends) for material identification."
+    }
+  ]
+}
